@@ -3,3 +3,8 @@
 - I work in Python and Javascript.
 - I work in game engine development
 - I work on Aspect Linux (private for our company)
+
+# Highlights:
+- AI Chatbot in Python
+- Javascript game engine
+- Aspect Linux
