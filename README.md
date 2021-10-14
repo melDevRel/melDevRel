@@ -1,4 +1,4 @@
-# Melon Developer Relations
+# Rodney Developer Relations
 - Hello, my name is Rodney and I work at Developer Relations for Aim.
 - I work in Python and Javascript.
 - I work in game engine development
